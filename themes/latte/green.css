@@ -1,0 +1,38 @@
+:root {
+    --background: #eff1f5;
+    --foreground: #4c4f69;
+    --card: #bcc0cc;
+    --card-foreground: #4c4f69;
+    --popover: #bcc0cc;
+    --popover-foreground: #4c4f69;
+    --primary: #40a02b;
+    --primary-foreground: #eff1f5;
+    --secondary: #8c8fa1;
+    --secondary-foreground: #4c4f69;
+    --muted: #8c8fa1;
+    --muted-foreground: #4c4f69;
+    --accent: #40a02b;
+    --accent-foreground: #8c8fa1;
+    --destructive: #d20f39;
+    --destructive-foreground: #4c4f69;
+    --border: #8c8fa1;
+    --input: #4c4f69;
+    --ring: #40a02b;
+    --sidebar: #ccd0da;
+    --sidebar-foreground: #4c4f69;
+    --sidebar-accent: #40a02b;
+    --sidebar-accent-foreground: #4c4f69;
+    --font-sans:
+        ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+        "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --radius: 0.5rem;
+    --shadow-xs: 0 1px 3px 0px hsl(0 0% 0% / 0.05);
+    --shadow-sm: 0 1px 3px 0px hsl(0 0% 0% / 0.1), 0 1px 2px -1px hsl(0 0% 0% / 0.1);
+    --shadow: 0 1px 3px 0px hsl(0 0% 0% / 0.1), 0 1px 2px -1px hsl(0 0% 0% / 0.1);
+    --shadow-md: 0 1px 3px 0px hsl(0 0% 0% / 0.1), 0 2px 4px -1px hsl(0 0% 0% / 0.1);
+    --shadow-lg: 0 1px 3px 0px hsl(0 0% 0% / 0.1), 0 4px 6px -1px hsl(0 0% 0% / 0.1);
+    --shadow-xl: 0 1px 3px 0px hsl(0 0% 0% / 0.1), 0 8px 10px -1px hsl(0 0% 0% / 0.1);
+    --shadow-2xl: 0 1px 3px 0px hsl(0 0% 0% / 0.25);
+}
