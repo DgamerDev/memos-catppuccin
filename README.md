@@ -27,7 +27,7 @@
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/DgamerDev/memos-catppuccin/main/main/assets/macchiato.png"/>
+<img src="https://raw.githubusercontent.com/DgamerDev/memos-catppuccin/main/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
